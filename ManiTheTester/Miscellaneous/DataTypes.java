@@ -1,4 +1,4 @@
-package com.ManiTheTester;
+package com.ManiTheTester.Miscellaneous;
 
 public class DataTypes {
 
